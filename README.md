@@ -21,6 +21,13 @@ This project performs **Exploratory Data Analysis (EDA)** on the Global Terroris
 It focuses on **data-driven understanding** of attacks, regions, targets, and their impact.
 
 ---
+## 📂 Dataset
+- Source: Global Terrorism Database (GTD)  
+- Time Period: 1970–2017  
+- Records: 180,000+ incidents  
+- Features: 100+ attributes (location, attack type, target, casualties, etc.)
+
+---
 
 ## 🎯 Business Objective
 
@@ -42,6 +49,27 @@ It focuses on **data-driven understanding** of attacks, regions, targets, and th
 | Seaborn | Advanced Visualization |
 
 ---
+## 🔄 Workflow
+Data Collection → Cleaning → Wrangling → EDA → Visualization → Insights
+
+---
+---
+
+## 📊 Key Visualizations
+- Terrorism trend over years  
+- Country-wise attack distribution  
+- Region-wise comparison  
+- Attack type frequency  
+- Weapon usage analysis  
+- Casualty distribution  
+- Correlation heatmap  
+- Pair plot analysis  
+- Target type analysis  
+- Time-based trend charts  
+
+
+---
+
 
 ## 📊 Key Visual Insights
 
