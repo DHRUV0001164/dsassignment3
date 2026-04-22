@@ -20,6 +20,12 @@ This project performs **Exploratory Data Analysis (EDA)** on the Global Terroris
 
 It focuses on **data-driven understanding** of attacks, regions, targets, and their impact.
 
+
+---
+## 🚀 Live Report
+👉 Open HTML Analysis Report:  
+**terrorism analysis.html**
+
 ---
 ## 📂 Dataset
 - Source: Global Terrorism Database (GTD)  
